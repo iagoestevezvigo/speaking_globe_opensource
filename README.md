@@ -7,34 +7,40 @@
 
 ### 🏠 [Homepage](https://play.google.com/store/apps/details?id=com.angueira.speaking)
 
-### ✨ [Demo](https://play.google.com/store/apps/details?id=com.angueira.speaking)
+### ✨ [Play Store](https://play.google.com/store/apps/details?id=com.angueira.speaking)
 
 ## Install
 
+1. Clone the repository:
 ```sh
-1. Clone the repository (git clone https://github.com/iagoestevezvigo/speaking_globe_opensource.git)
-2. cd speaking_globe_opensource
-3. flutter pub get
-4. flutter run
+git clone https://github.com/iagoestevezvigo/speaking_globe_opensource.git
+```
+2. Change to the repository folder
+```sh
+cd speaking_globe_opensource
+```
+3. Get dependencies
+```sh
+flutter pub get
+```
+4. Run the app
+```sh
+flutter run
 ```
 
 ## Contributing
 
+1. Fork the repository.
+2. Create a feature branch:
 ```sh
-Fork the repository.
-Create a feature branch:
-bash
-Copiar
-Editar
 git checkout -b feature-name
-Commit changes and push:
-bash
-Copiar
-Editar
+```
+3. Commit changes and push:
+```sh
 git commit -m "Add feature description"
 git push origin feature-name
-Create a pull request.
 ```
+4. Create a pull request.
 
 ## Author
 
