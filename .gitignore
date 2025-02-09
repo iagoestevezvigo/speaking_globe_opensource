@@ -11,6 +11,11 @@ lib/scripts/private/*
 .history
 .svn/
 migrate_working_dir/
+constants.dart
+android/*
+images/*
+ios/*
+test/*
 
 # IntelliJ related
 *.iml
