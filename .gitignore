@@ -11,6 +11,7 @@ lib/scripts/private/*
 .history
 .svn/
 migrate_working_dir/
+constants.dart
 
 # IntelliJ related
 *.iml
